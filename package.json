@@ -9,6 +9,6 @@
     "stellar-sdk": "^10.4.0",
     "bip39": "^3.0.4",
     "ed25519-hd-key": "^1.2.0",
-    "ntp-client": "^0.5.5"
+    "ntp-client": "^0.5.3"
   }
 }
